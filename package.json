@@ -1,0 +1,26 @@
+{
+  "name": "file-organiser",
+  "version": "1.0.0",
+  "description": "this modules helps you to organise your downloads folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbchinonso/file-organiser.git"
+  },
+  "keywords": [
+    "file",
+    "organiser",
+    "download",
+    "folder",
+    "manager"
+  ],
+  "author": "johnbosco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbchinonso/file-organiser/issues"
+  },
+  "homepage": "https://github.com/jbchinonso/file-organiser#readme"
+}
